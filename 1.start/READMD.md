@@ -10,6 +10,8 @@ brew install jmeter
 brew install jmeter —-with-plugins
 ```
 
+![jpg_1](./1.png)
+
 # jMeter Open
 
 jMeter 실행
@@ -18,8 +20,13 @@ jMeter 실행
 open /usr/local/bin/jmeter
 ```
 
+![jpg_1](./2.png)
+
+
 alias 처리
 
 ```bash
 alias jMeter="open /usr/local/bin/jmeter"
 ```
+
+![jpg_1](./3.png)
